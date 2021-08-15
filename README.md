@@ -10,6 +10,10 @@
               color:white;">
           Hey, Nice to e-meet you. <br>
           If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about this repository.<br>
-          This repository contains my daily learning related to Python Programming, Machine Learning, Statistics, Mathematics.<br>
+          This repository contains my daily learning related to 
+                   1. Python Programming<br>
+                   2. Machine Learning<br>
+                   3. Statistics<br>
+                   4. Mathematics.<br>
          </p>
 </div>
