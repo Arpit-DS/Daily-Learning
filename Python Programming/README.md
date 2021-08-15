@@ -8,8 +8,6 @@
            letter-spacing:0.6px">
         <p style="padding: 10px;
               color:black;">
-          Hey, Nice to e-meet you. <br>
-          If you have stumbled to reach here, I am taking the opportunity to consider that you want to know more about this repository.<br>
-          This repository contains my daily learning related to Python Programming, Machine Learning, Statistics, Mathematics.<br>
+          Day 1: Introduction to Python Programming, pip, libraries, comments, Escape Sequence, Print Statement.
          </p>
 </div>
