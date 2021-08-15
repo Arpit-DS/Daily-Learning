@@ -8,6 +8,7 @@
            letter-spacing:0.6px">
         <p style="padding: 10px;
               color:black;">
-          Day 1: Introduction to Python Programming, pip, libraries, comments, Escape Sequence, Print Statement.
+          Day 1: Introduction to Python Programming, pip, libraries, comments, Escape Sequence, Print Statement.<br>
+          Day 2: Variables, Datatypes, Typecasting.
          </p>
 </div>
