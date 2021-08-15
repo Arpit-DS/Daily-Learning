@@ -13,5 +13,3 @@
           This repository contains my daily learning related to Python Programming, Machine Learning, Statistics, Mathematics.<br>
          </p>
 </div>
-
-<h1 style="font-family:cursive; font-size:18px;background-color: #70dbdb;color:black;text-align:center;padding: 8px">Importing Libraries</h1>
