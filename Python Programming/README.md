@@ -9,6 +9,8 @@
         <p style="padding: 10px;
               color:black;">
           Day 1: Introduction to Python Programming, pip, libraries, comments, Escape Sequence, Print Statement.<br>
-          Day 2: Variables, Datatypes, Typecasting.
+          Day 2: Variables, Datatypes, Typecasting.<br>
+          Day 3: String Slicing And Other Functions In Python<br>
+          Day 4: Python Lists And List Functions<br>
          </p>
 </div>
