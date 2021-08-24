@@ -12,5 +12,6 @@
           Day 2: Variables, Datatypes, Typecasting.<br>
           Day 3: String Slicing And Other Functions In Python<br>
           Day 4: Python Lists And List Functions<br>
+          Day 5: Dictionary<br>
          </p>
 </div>
